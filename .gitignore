@@ -1,0 +1,6 @@
+/target/
+/quanlysinhvien.db
+/quanlysinhvien.db-journal
+/quanlysinhvien.db-shm
+/quanlysinhvien.db-wal
+/.github/modernize/
